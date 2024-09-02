@@ -4,11 +4,6 @@ I’m a passionate Database Developer with a strong mathematical and analytical 
 At the heart of Greece’s defense infrastructure, I design and maintain databases that are critical to the station's operations. From creating personnel databases in Access to managing satellite image data with Python and automating daily routines using ArcGIS scripting, my role is all about optimizing processes, ensuring data integrity, and driving efficiency.  <br />
 🎓 Educational Background: Master’s in Computational and Statistical Data Analytics (MCDA) <br />
 My academic journey at the University of Patras equipped me with cutting-edge skills in machine learning, database management, and statistical analysis. I dove deep into the world of algorithms, neural networks, and data visualization, culminating in a thesis on applying Item Response Theory (IRT) in machine learning—merging statistical theory with practical AI applications. <br />
-🔍 What I Bring to the Table: <br />
-Database Mastery: Proficient in SQL, noSQL, SQLite, and Access, with hands-on experience in database creation, maintenance, and optimization. <br />
-Python Power: Skilled in Python for everything from automating workflows to advanced data analysis, machine learning, and ArcGIS scripting.  <br />
-Statistical Insight: Expertise in statistical analysis using Python and R, with a keen ability to turn data into actionable insights.
-Automation Aficionado: I thrive on streamlining tasks and boosting productivity through automation, particularly with VBA and Python. <br />
 📊 Past Experience: Assistant Docent at University of Patras <br />
 During my time as an Assistant Docent, I honed my ability to simplify complex concepts in Numerical Analysis and Differential Equations, making me not just a technical expert but also an effective communicator and educator. <br />
 👋 Let’s Connect! <br />
