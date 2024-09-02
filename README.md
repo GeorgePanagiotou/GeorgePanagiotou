@@ -1,8 +1,8 @@
 🚀 Database Developer | Data Enthusiast | Problem Solver 🚀
-I’m a passionate Database Developer with a strong mathematical and analytical background, driven by a love for solving complex problems and creating data-driven solutions that propel organizations forward. My journey in data and technology has been fueled by a deep curiosity and a commitment to continuous learning.
+I’m a passionate Database Developer with a strong mathematical and analytical background, driven by a love for solving complex problems and creating data-driven solutions that propel organizations forward. My journey in data and technology has been fueled by a deep curiosity and a commitment to continuous learning. \\
 💼 Current Role: Database Developer at Hellenic National Defence General Staff's Ground Satellite Station
 At the heart of Greece’s defense infrastructure, I design and maintain databases that are critical to the station's operations. From creating personnel databases in Access to managing satellite image data with Python and automating daily routines using ArcGIS scripting, my role is all about optimizing processes, ensuring data integrity, and driving efficiency.
-🎓 Educational Background: Master’s in Computational and Statistical Data Analytics (MCDA)
+🎓 Educational Background: Master’s in Computational and Statistical Data Analytics (MCDA) \\
 My academic journey at the University of Patras equipped me with cutting-edge skills in machine learning, database management, and statistical analysis. I dove deep into the world of algorithms, neural networks, and data visualization, culminating in a thesis on applying Item Response Theory (IRT) in machine learning—merging statistical theory with practical AI applications.
 🔍 What I Bring to the Table:
 Database Mastery: Proficient in SQL, noSQL, SQLite, and Access, with hands-on experience in database creation, maintenance, and optimization.
